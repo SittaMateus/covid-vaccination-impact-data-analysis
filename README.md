@@ -19,7 +19,7 @@ Este projeto analisa como o avanço da vacinação impactou os **casos confirmad
 
 ### 1️ Casos e Vacinação – Brasil, Alemanha e EUA
 
-![Casos e Vacinação](./plots/casesandvaccination.png)
+![Casos e Vacinação](./plots/cases-and-vaccination.png)
 
 - **Brasil** teve a **maior taxa de vacinação** (~90%).
 - **Alemanha** teve o **maior número de casos** por milhão.
